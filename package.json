@@ -1,6 +1,12 @@
 {
-  "name": "geartrack-react-ui",
+  "name": "animal-app",
   "version": "0.1.0",
+  "author": {
+    "name": "Afonso Santos",
+    "email": "afonso.faisca1@gmail.com",
+    "url": "https://afonsosantos.me"
+  },
+  "description": "Simple React app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
